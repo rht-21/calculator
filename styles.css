@@ -7,6 +7,14 @@ body {
   background-color: #BAFFB4;
 }
 
+h1 {
+  text-align: center;
+  font-size: 60px;
+  margin: 50px;
+  font-family: cursive;
+  color: #35858B;
+}
+
 .img {
   height: 40px;
   width: 40px;
@@ -25,12 +33,9 @@ table tr td{
 }
 
 .center {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
 }
 
 .button {
